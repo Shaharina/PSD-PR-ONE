@@ -1,9 +1,7 @@
 ## [Paul Lapkin](https://shaharina.github.io/PSD-PR-ONE/)
-<br/>
-<br/>
 Welcome to the Paul Lapkin . This website is a PERSONAL PORTFOLIO service website. This repository contains server site code.
-
-
+<br/>
+<br/>
 <img src="https://raw.githubusercontent.com/Shaharina/All-images/main/images/Paul%20Lapkin.png" />
 
 
