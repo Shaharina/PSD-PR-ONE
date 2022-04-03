@@ -18,4 +18,4 @@ Welcome to the Paul Lapkin . This website is a PERSONAL PORTFOLIO service websit
 - JAVASCRIPT
 - 
 
-You can see client side code in [Paul Lapkin](https://shaharina.github.io/PSD-PR-ONE/)
+You can see client side code in [Paul Lapkin](https://github.com/Shaharina/PSD-PR-ONE)
