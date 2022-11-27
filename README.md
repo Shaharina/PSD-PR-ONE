@@ -16,6 +16,6 @@ Welcome to the Paul Lapkin . This website is a PERSONAL PORTFOLIO service websit
 - CSS 3
 - BOOTSTRAP 5
 - JAVASCRIPT
-- 
+- Jquery
 
 You can see client side code in [Paul Lapkin](https://github.com/Shaharina/PSD-PR-ONE)
